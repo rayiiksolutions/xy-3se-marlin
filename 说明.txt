@@ -1,0 +1,4 @@
+1.安装vscode,以及在vscode扩展插件安装platformio
+2.将本目录下的packages里面的所有文件夹复制到路径C:\Users\(计算机名)\.platformio\packages里面去,如果有同名,则替换掉.
+3.将本目录下的platforms里面的所有文件夹复制到路径C:\Users\(计算机名)\.platformio\platforms里面去,如果有同名,则替换掉.
+4.打开vscode->file->open folder,选择本目录下的Marlin文件夹,打开,然后ctrl+B编译,即可在marlin\output文件夹中找到固件编译后产生的hex文件,将其放入SD卡,即可烧录.
