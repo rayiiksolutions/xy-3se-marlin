@@ -1,7 +1,7 @@
 # xy-3se-marlin
 *xy3-se marlin firmware*
 
-## this is the origonal documentation while the files are from https://tronxy.com/downloads and the documentation may not line up perfectly with the actual file. this is uploaded for my use so that i may run it in gitpod, if you benifit too great.
+## this is the origonal documentation while the files are from https://tronxy.com/download and the documentation may not line up perfectly with the actual file. this is uploaded for my use so that i may run it in gitpod, if you benifit too great.
 
 # Marlin 3D Printer Firmware
 
